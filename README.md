@@ -1,4 +1,6 @@
 ### Hello World 🌍
+#### About me
+<img alt="Art Coding" width='40' align="left" src="./assets/giphy.gif" align="right"/>
 
 #### Techs 👾
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -23,5 +25,3 @@
   <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inzee86333&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<img alt="Night Coding" src="./assets/giphy.gif" align="right"/>
