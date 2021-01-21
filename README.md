@@ -1,9 +1,11 @@
 ### Hello World ⚡
 ##### Languages
+<p align="center">
 <a>
   <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inzee86333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inzee86333&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 <!--
 **inzee86333/inzee86333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
