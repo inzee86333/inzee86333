@@ -1,6 +1,6 @@
 ### Hello World 🌍
-#### About me
-<img alt="Art Coding" width='40' align="left" src="./assets/giphy.gif" align="right"/>
+#### About me 👦
+<img alt="Art Coding" width='40' src="./assets/giphy.gif" align="right"/>
 
 #### Techs 👾
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
