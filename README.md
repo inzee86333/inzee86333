@@ -1,5 +1,18 @@
-### Hello World ⚡
-##### Languages
+### Hello World 🌍
+
+##### Languages 📄
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
+
+##### Technologies 👾
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+##### GitHub Analytics 📊
 <p align="center">
 <a>
   <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inzee86333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
