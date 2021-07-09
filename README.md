@@ -4,7 +4,7 @@
 ❤️ &nbsp; I'm interested in programming because it's fun but not easy. \
 <img alt="Art Coding" width='40' src="./assets/giphy.gif" align="right"/>
 
-#### Techs 👾
+#### Teches 👾
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
