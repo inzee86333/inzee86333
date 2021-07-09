@@ -1,4 +1,3 @@
-### Hello World 🌍
 #### About me 👦
 😃 &nbsp; My name is supamit padtip. \
 🎓 &nbsp; I'm studying software engineering at Phayao University. \
