@@ -1,6 +1,6 @@
 #### About me 👦
 😃 &nbsp; My name is supamit padtip. \
-🎓 &nbsp; I'm studying software engineering at Phayao University. \
+🎓 &nbsp; I'm studying software engineering at University of Phayao. \
 ❤️ &nbsp; I'm interested in programming because it's fun but not easy. \
 <img alt="Art Coding" width='40' src="./assets/giphy.gif" align="right"/>
 
